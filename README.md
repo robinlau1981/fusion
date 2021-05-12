@@ -18,7 +18,7 @@ Appreciate if you cite the above paper.
 
 The corresponce betwee algorithm names in the code and that in the paper is as follows:
 
-Code                     Paper
+Code      <----------->  Paper
 
 pf        <----------->  PF
 
@@ -27,6 +27,7 @@ dmmpf     <----------->  DMA
 pf_df     <----------->  SMA
 
 pf_alpha  <----------->  TS
+
 
 main_alg_compare.m              : the main function for reproducing experimental results in the paper
 
