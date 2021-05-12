@@ -16,7 +16,7 @@ organization={to be filled} }
 
 Appreciate if you cite the above paper.
 
-The corresponce betwee algorithm names in the code and that in the paper is as follows:
+The correspondance betwee algorithm names in the code and that in the paper is as follows:
 
 Code      <----------->  Paper
 
