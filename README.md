@@ -18,15 +18,13 @@ Appreciate if you cite the above paper.
 
 The correspondance betwee algorithm names in the code and that in the paper is as follows:
 
-Code      <----------->  Paper
+"pf" in the code       <----------->  "PF" in the paper
 
-pf        <----------->  PF
+"dmmpf" in the code     <----------->  "DMA" in the paper
 
-dmmpf     <----------->  DMA
+"pf_df" in the code     <----------->  "SMA" in the paper
 
-pf_df     <----------->  SMA
-
-pf_alpha  <----------->  TS
+"pf_alpha" in the code  <----------->  "TS" in the paper
 
 
 main_alg_compare.m              : the main function for reproducing experimental results in the paper
