@@ -26,6 +26,7 @@ The correspondance betwee algorithm names in the code and that in the paper is a
 
 "pf_alpha" in the code  <----------->  "TS" in the paper
 
+A brief description of the code files is as follows
 
 main_alg_compare.m              : the main function for reproducing experimental results in the paper
 
