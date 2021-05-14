@@ -1,7 +1,5 @@
 Here is a copy of data and Matlab codes involved in the following paper
 
- B. Liu, “A very brief and critical discussion on automl,” arXiv preprint arXiv:1811.03822, 2018
-
 @inproceedings{liu2021robust,
 
 title={Robust Dynamic Multi-Modal Data Fusion: A Model Uncertainty Perspective},
