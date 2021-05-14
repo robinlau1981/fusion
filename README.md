@@ -1,20 +1,20 @@
 Here is a copy of data and Matlab codes involved in the following paper
 
+ B. Liu, “A very brief and critical discussion on automl,” arXiv preprint arXiv:1811.03822, 2018
+
 @inproceedings{liu2021robust,
 
 title={Robust Dynamic Multi-Modal Data Fusion: A Model Uncertainty Perspective},
 
 author={Liu, Bin},
 
-booktitle={to be filled},
+booktitle={arXiv preprint arXiv:2105.06018},
 
-pages={to be filled},
+year={2021}
 
-year={2021},
+}
 
-organization={to be filled} }
-
-Appreciate if you cite the above paper.
+Appreciate if you cite this paper aftering your using the code and/or data here.
 
 The correspondance betwee algorithm names in the code and that in the paper is as follows:
 
