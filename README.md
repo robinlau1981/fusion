@@ -34,4 +34,7 @@ simulate_data_gen.m             : code for generating simu_data.mat
 
 simulate_data_gen2.m            : code for generating simu_data2.mat
 
-residualR.m                     : residual resampling
+residualR.m                     : code for implementing the residual resampling algorithm
+
+In addition, in main_alg_compare.m, setting "observation_mode" to 0, 1, 2, 3 obtains results corresponding to Scenarios 1, 2, 3, 4, respectively, which are presented in the paper. 
+                   
